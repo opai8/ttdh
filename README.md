@@ -33,4 +33,4 @@
 
 
 #### 演示截图
-![demo](screnshot.png)
+![demo](https://raw.githubusercontent.com/opai8/ttdh/main/screenshot.png)
