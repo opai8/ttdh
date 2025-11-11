@@ -4,7 +4,7 @@
 
 
 #### 说明
-网站基于 **六零导航页**  (LyLme Spage), 本站地址：[Github Releases](https://github.com/LyLme/lylme_spage/releases/)<br>
+网站基于 **六零导航页**  (LyLme Spage), 本站地址：[Github Releases](https://github.com/LyLme/lylme_spage/)<br>
 
 
 鉴于源项目(lylme_spage-1.8.5.zip)最新版限制功能(需关注公众号获取授权), 因此对源项目进行二次更改<br>
